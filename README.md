@@ -81,7 +81,7 @@ http://127.0.0.1:5000/
 Run locally:
 http://127.0.0.1:5000/
 
-![AI Resume Analyzer](https://raw.githubusercontent.com/srushthis21/ai-resume-analyzer/main/Screenshot.png)
+![AI Resume Analyzer](Screenshot.png)
 ---
 
 ## 💡 Future Improvements
