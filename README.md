@@ -78,9 +78,9 @@ http://127.0.0.1:5000/
 ---
 
 ## 📸 Output Screenshot
-
-(Add your project screenshot here)
-
+Run locally:
+http://127.0.0.1:5000/
+![AI Resume Analyzer](https://raw.githubusercontent.com/srushthis21/ai-resume-analyzer/main/Screenshot%202026-04-02%20201328.png)
 ---
 
 ## 💡 Future Improvements
@@ -89,13 +89,5 @@ http://127.0.0.1:5000/
 - Improve UI/UX
 - Add AI-based recommendations
 - Deploy online
-
----
-
-## 👩‍💻 Author
-
-**Srushti H S**
-
----
 
 ## ⭐ If you like this project, give it a star!
